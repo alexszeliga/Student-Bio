@@ -1,2 +1,2 @@
 # Student-Bio
-Alex Szeliga's student biographyh
+Alex Szeliga's student biography
